@@ -1,3 +1,29 @@
+# Introducción a InterSystems IntegratedML
+
+Este repositorio alberga el contenido del Webinar de la Comunidad de desarrolladores de InterSystems titulado [IntegratedML: Cómo crear modelos de "Machine Learning" en minutos](https://es.community.intersystems.com/post/webinar-en-espa%C3%B1ol-integratedml-c%C3%B3mo-crear-modelos-de-machine-learning-en-minutos). 
+
+Este webinar presenta la herramienta de "Machine Learning" de InterSystems: IntegratedML. 
+Como ejemplo vamos a estudiar el catálogo de exoplanetas de la sonda espacial Kepler de [NASA](https://exoplanetarchive.ipac.caltech.edu/), creando un modelo que predice si se ha detectado un exoplaneta o no. Para comprobar la calidad de las predicciones vamos a usar los datos de otras sondas espaciales de la NASA.
+
+Durante el webinar vamos a realizar todos los pasos típicos de un estudio de "Machine Learning":
+
+1. Adquisición de los datos, incluyendo limpiarlos y estudiarlos.
+2. Entrenar el modelo
+3. Validar el modelo
+4. Hacer predicciones y comprobarlas con datos de otras sondas espaciales de la NASA.
+
+Modificaciones con respecto al repositorio plantilla:
+
+1. Añadidos paquetes python en el fichero: tf2-jupyter-jdbc/requirements.txt
+2. Actualización de la imagen de IRIS a 2021.1
+3. Nuevo jupyter notebook con el contenido del webinar: jupyter-samples/Kepler.ipynb
+4. Fichero con los datos del catálogo de la sonda espacial Kepler de la NASA: jupyter-samples/exoplanets_2018.csv
+
+
+# README original de la plantilla de IntegratedML
+
+Este es el repositorio usado como [plantilla](https://github.com/intersystems-community/integratedml-demo-template).
+
 # integratedml-demo-template
 This is a template for IntegratedML - InterSystems Github repository.
 
