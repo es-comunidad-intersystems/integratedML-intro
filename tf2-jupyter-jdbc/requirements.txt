@@ -2,4 +2,7 @@ jupyterthemes
 JayDeBeApi
 pandas
 scikit-learn
-
+seaborn
+tqdm
+keras
+pillow
