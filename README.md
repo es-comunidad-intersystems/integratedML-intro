@@ -19,6 +19,10 @@ Modificaciones con respecto al repositorio plantilla:
 3. Nuevo jupyter notebook con el contenido del webinar: jupyter-samples/Kepler.ipynb
 4. Fichero con los datos del catálogo de la sonda espacial Kepler de la NASA: jupyter-samples/exoplanets_2018.csv
 
+Enlaces:
+
+[JupyterNotebook](http://localhost:8896/tree?)
+[IRIS](http://localhost:8092/csp/sys/%25CSP.Portal.Home.zen)
 
 # README original de la plantilla de IntegratedML
 
